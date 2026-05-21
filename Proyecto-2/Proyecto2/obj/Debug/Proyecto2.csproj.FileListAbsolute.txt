@@ -1,0 +1,7 @@
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Sebas\source\repos\adairguiguic-cloud\Proyecto-2\Proyecto2\obj\Debug\Proyecto2.pdb
